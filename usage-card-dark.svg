@@ -1,22 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="256" viewBox="0 0 720 256" role="img" aria-label="AI coding usage estimate: $27.4K spend equivalent at API list rates across 33.1 billion tokens and 100 active days, Jan 18 – Sep 8, 2026. Not actual billing.">
-  <rect x="0.5" y="0.5" width="719" height="255" rx="10" fill="#1a1a19" stroke="#383835"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="168" viewBox="0 0 720 168" role="img" aria-label="AI coding usage: $27.4K estimated at API list rates, 33.1 billion tokens, 100 active days, Jan 18 – Sep 8, 2026">
+  <rect x="0.5" y="0.5" width="719" height="167" rx="10" fill="#1a1a19" stroke="#383835"/>
   <text x="28" y="40" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="12" font-weight="600" fill="#c3c2b7" letter-spacing="0.4">AI CODING USAGE</text>
-  <text x="692" y="40" text-anchor="end" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="12" fill="#8b8a84">Jan 18 – Sep 8, 2026 · at API list rates</text>
+  <text x="692" y="40" text-anchor="end" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="12" fill="#8b8a84">Jan 18 – Sep 8, 2026</text>
   <text x="26" y="106" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="56" font-weight="600" fill="#ffffff">$27.4K</text>
-  <text x="234" y="106" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14" fill="#c3c2b7">estimated spend equivalent</text>
+  <text x="234" y="106" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="14" fill="#c3c2b7">estimated at API list rates</text>
   <g font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="13" fill="#c3c2b7">
     <text x="28" y="140"><tspan font-weight="600" fill="#ffffff">33.1B</tspan> tokens</text>
     <text x="178" y="140"><tspan font-weight="600" fill="#ffffff">100</tspan> active days</text>
     <text x="328" y="140"><tspan font-weight="600" fill="#ffffff">Claude Code</tspan> + Codex CLI</text>
   </g>
-  <rect x="28" y="160" width="664" height="8" rx="4" fill="#383835"/>
-  <rect x="28" y="160" width="188.6" height="8" rx="4" fill="#3987e5"/>
-  <rect x="218.6" y="160" width="473.4" height="8" rx="4" fill="#184f95"/>
-  <g font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="12" fill="#c3c2b7">
-    <rect x="28" y="181" width="10" height="10" rx="2" fill="#3987e5"/>
-    <text x="44" y="190"><tspan font-weight="600" fill="#ffffff">$7.8K</tspan> from surviving session transcripts (mostly Jul–Sep)</text>
-    <rect x="28" y="201" width="10" height="10" rx="2" fill="#184f95"/>
-    <text x="44" y="210"><tspan font-weight="600" fill="#ffffff">$19.6K</tspan> from Claude Code's own stats cache (Feb–Jul), overlap removed</text>
-  </g>
-  <text x="28" y="238" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-size="11" fill="#8b8a84">Claude Code deletes transcripts after 30 days; earlier months survive only as aggregate totals. Estimate, not actual billing.</text>
 </svg>
